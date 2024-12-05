@@ -6,4 +6,7 @@
     <string name="error_serialization">Couldn\'t serialize the data.</string>
     <string name="error_server">Couldn\'t contact the server.</string>
     <string name="error_unknown">Unknown error happened.</string>
+    <string name="market_cap">Market Cap</string>
+    <string name="price">Price</string>
+    <string name="change_last_24h">Change Last 24H</string>
 </resources>
